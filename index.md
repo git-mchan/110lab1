@@ -6,3 +6,4 @@ If there was one 'git push' that caused things to go boom.
 ## My Interest
 One things my friends know about me is when I talk about BMWs too much, and they are right.
 I am always on the [BMW](https://www.bmwusa.com/build-your-own.html#/series) website configuring a BMW I can't afford but dream of buying to replace my BMW. 
+I find challenges interesting, for example when looking at [this](README.md) assignment, it is a learning process for me but I think I am getting the hang of it which makes it enjoyable. 
