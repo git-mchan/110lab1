@@ -25,7 +25,7 @@ As a programmer, I am always looking to learn and get through challenges that I 
 Ultimately, new things can be an enjoyable experience because it is a new experience and getting the hang of it makes new learning experiences worthwhile.  
 I feel it is very important to ***communicate*** with others in order to have clear expectations of one another. As it:  
 >Would be awful to have merging issues.  
-Such as, ff there was one 'git push' that caused things to go boom. 
+Such as, if there was one `git push` that caused things to go boom. 
 
 ## My Ultimate Interest
 One things my friends know about me is when I talk about BMWs too much, and they are right.  
