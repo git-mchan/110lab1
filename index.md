@@ -5,13 +5,16 @@ Hello my name is _Matthew Chanthirat_.
 - Age:21  
 - Pronouns: He/Him/His  
 - Warren College  
+  
 **Likes**  
 1. Being with Family/Friends  
 2. Food  
 3. Cars and [my favorite brand](#my-ultimate-interest)  
+
 **Dislikes**  
 1. Loud unnecessary noises  
 2. Being stuck in a line  
+
 ### Goals
 [] Gain more experience as a programmer  
 [] Graduate UCSD  
